@@ -1,0 +1,11 @@
+{
+  "name": "miriteco",
+  "version": "0.0.1",
+  "description": "Tello library for Node.js",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Hiroki Usuba <hrky0206@gmail.com> (http://mimorisuzuko.github.io/)",
+  "license": "MIT",
+  "dependencies": {}
+}
